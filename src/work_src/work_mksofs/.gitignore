@@ -1,0 +1,14 @@
+# all files and folders are to be ignored...
+/*
+
+# except those following
+!.gitignore
+!CMakeLists.txt
+!work_mksofs.h
+!work_mksofs_CS.cpp
+!work_mksofs_FBLT.cpp
+!work_mksofs_FILT.cpp
+!work_mksofs_IT.cpp
+!work_mksofs_RC.cpp
+!work_mksofs_RD.cpp
+!work_mksofs_SB.cpp

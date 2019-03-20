@@ -1,0 +1,14 @@
+# all files and folders are to be ignored...
+/*
+
+# except those following
+!.gitignore
+!CMakeLists.txt
+!dal.h
+!dal_DZ.cpp
+!dal_FBLT.cpp
+!dal_FILT.cpp
+!dal_inode.cpp
+!dal_IT.cpp
+!dal_OC.cpp
+!dal_SB.cpp

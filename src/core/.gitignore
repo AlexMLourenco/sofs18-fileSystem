@@ -1,0 +1,20 @@
+# all files and folders are to be ignored...
+/*
+
+# except those following
+!.gitignore
+!CMakeLists.txt
+!superblock.h
+!inode.h
+!core.h
+!exception.h
+!exception.cpp
+!probing.h
+!probing.cpp
+!bin_selection.h
+!bin_selection.cpp
+!blockviews.h
+!blockviews.cpp
+!direntry.h
+!showblock.cpp
+!showsizes.cpp
